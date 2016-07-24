@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/CamelCase/CamelCase.iml" filepath="$PROJECT_DIR$/CamelCase/CamelCase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LongestIncreasingSubsequenceArrays/LongestIncreasingSubsequenceArrays.iml" filepath="$PROJECT_DIR$/LongestIncreasingSubsequenceArrays/LongestIncreasingSubsequenceArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ShortPalindrome/ShortPalindrome.iml" filepath="$PROJECT_DIR$/ShortPalindrome/ShortPalindrome.iml" />
       <module fileurl="file://$PROJECT_DIR$/StringConstruction/StringConstruction.iml" filepath="$PROJECT_DIR$/StringConstruction/StringConstruction.iml" />
       <module fileurl="file://$PROJECT_DIR$/WorldCodeSprint5.iml" filepath="$PROJECT_DIR$/WorldCodeSprint5.iml" />
     </modules>
